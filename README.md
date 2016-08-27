@@ -1,4 +1,4 @@
-testWeb
+testDSWeb
 =======
 
-This is a bootstrap project to test some datasource functionalities in clients appservers
+This is a project for proof of concepts of datasource functionalities in clients appservers
