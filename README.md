@@ -1,4 +1,4 @@
 testWeb
 =======
 
-This is a bootstrap projects to test some functionalities of using datasources in java appservers
+This is a bootstrap project to test some datasource functionalities in clients appservers
